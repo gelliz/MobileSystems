@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711276671997",
+    "firebase_url": "https://lr-6-contacts.firebaseio.com",
+    "project_id": "lr-6-contacts",
+    "storage_bucket": "lr-6-contacts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711276671997:android:daf2780325d7f1d5985f94",
+        "android_client_info": {
+          "package_name": "gev.fit.bstu.by.lr_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711276671997-46aip8fmv5jrvu1lh04d0boo8pnnvl7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gev.fit.bstu.by.lr_4",
+            "certificate_hash": "3f876779f992bfcf077f2b57ebf9ab91be7eb8fc"
+          }
+        },
+        {
+          "client_id": "711276671997-vslfub4t7tskid8kk0a7vlagnvhnkc63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_V85PAb4WkaIM0rIw2FL654wY6NMAm0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711276671997-vslfub4t7tskid8kk0a7vlagnvhnkc63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
